@@ -1,0 +1,8 @@
+wallet:
+  rpc_url: https://api.devnet.solana.com
+  secret_key: <your_private_key_here>
+  to: <money_reciever_address>
+  amount: 1000
+geyser:
+  url: https://grpc.ny.shyft.to
+  token: 881e801b-7dc1-4b3e-b5c7-bccd41552961
